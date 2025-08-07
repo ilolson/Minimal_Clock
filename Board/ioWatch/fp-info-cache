@@ -1,4 +1,4 @@
-24739202923221783
+24742690918667281
 ABS05_32_768KHZ_T
 XTAL_ABS05-32.768KHZ-T
 
@@ -68529,6 +68529,13 @@ threaded screw
 0
 4
 1
+NORA_B106_00B
+XCVR_NORA-B106-00B
+
+
+0
+82
+82
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -99525,3 +99532,10 @@ Varistor VF
 0
 2
 2
+b402_again
+ANNA-B402_UBL
+
+ANNA-B402-00B 
+0
+56
+56

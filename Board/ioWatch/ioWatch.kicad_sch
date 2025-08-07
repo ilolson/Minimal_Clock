@@ -3619,6 +3619,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "na"
+			(at 83.82 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23871471-2f93-4a4c-a686-2676c4986d00")
 		)
@@ -3751,6 +3760,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C315248"
+			(at 124.46 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3887,6 +3904,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C384960"
+			(at 69.85 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "00c12ccb-edf6-4512-8ba8-f827caa44d44")
 		)
@@ -3956,6 +3981,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C720477"
+			(at 104.14 107.442 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fae03d0d-af4a-4500-b986-004475143b4a")
 		)
@@ -4018,6 +4052,15 @@
 			)
 		)
 		(property "Description" "I2C/SPI, iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope, 1.71V to 3.6V VCC"
+			(at 190.5 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2829074"
 			(at 190.5 57.15 0)
 			(effects
 				(font
@@ -4308,6 +4351,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C179633"
+			(at 77.47 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6c9727c-d55c-4fb3-b2e8-e262fff20ecb")
 		)
@@ -4508,6 +4560,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C76934"
+			(at 137.16 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3dcb6ac-eacf-4390-8ec0-1e60463a4979")
 		)
@@ -4573,6 +4633,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C384960"
+			(at 69.85 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4707,6 +4775,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C76934"
+			(at 124.46 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4912,6 +4988,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C720477"
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dab42d67-6e78-41f2-ab4e-01623e4887d8")
 		)
@@ -4974,6 +5059,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 97.79 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "na"
 			(at 97.79 99.06 0)
 			(effects
 				(font
@@ -5181,6 +5275,15 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 8KB RAM, 32 MHz, 1.65-3.6V, 21 GPIO, UFQFPN28"
+			(at 130.81 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C96514"
 			(at 130.81 82.55 0)
 			(effects
 				(font
